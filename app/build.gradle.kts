@@ -1,9 +1,9 @@
+
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
     id("com.google.gms.google-services")
-    id("com.google.android.libraries.mapsplatform.secrets-gradle-plugin")
-    id("com.chaquo.python")
+
 
 }
 
@@ -22,17 +22,6 @@ android {
         vectorDrawables {
             useSupportLibrary = true
         }
-
-        ndk {
-            // On Apple silicon, you can omit x86_64.
-            abiFilters += listOf("arm64-v8a", "x86_64")
-        }
-
-
-            defaultConfig {
-                version = "3.8"
-            }
-
 
 
 
