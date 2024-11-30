@@ -17,10 +17,8 @@ This project provides a comprehensive solution for landslide prediction and awar
 3. Build and run the application on an emulator or a physical device.  
 
 # Backend Model
-Install Python and required libraries:  
-  > pip install -r requirements.txt     
-Download the dataset:  
-  > [kaggle link](https://www.kaggle.com/datasets/tekbahadurkshetri/landslide4sense)  
+Install Python and required libraries: pip install -r requirements.txt     
+Download the dataset:[kaggle link](https://www.kaggle.com/datasets/tekbahadurkshetri/landslide4sense)  
 Run the model script.  
 
 # Dependencies
