@@ -18,9 +18,9 @@ This project provides a comprehensive solution for landslide prediction and awar
 
 # Backend Model
 Install Python and required libraries:  
-  pip install -r requirements.txt     
+  > pip install -r requirements.txt     
 Download the dataset:  
-  [kaggle link](https://www.kaggle.com/datasets/tekbahadurkshetri/landslide4sense)  
+  > [kaggle link](https://www.kaggle.com/datasets/tekbahadurkshetri/landslide4sense)  
 Run the model script.  
 
 # Dependencies
